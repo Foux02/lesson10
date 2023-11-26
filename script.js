@@ -43,5 +43,3 @@ console.log(books);
 console.log(nameBooks);
 console.log(elems);
 console.log(ad);
-console.log('Привет');
-console.log('Странно');
